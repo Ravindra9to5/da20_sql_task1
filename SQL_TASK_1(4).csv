@@ -1,0 +1,11 @@
+deparment_id,college_id,name,establish_year,hod_name,no_of_faculties
+1,1,Computer Science and Engineering,2016,Dr. A. R. Wankhede,10
+2,1,Electronics and Telecommunication Engineering,2016,Dr. S. V. Deshmukh,9
+3,1,Electrical Engineering,2016,Dr. R. P. Borkar,8
+4,1,Mechanical Engineering,2016,Dr. M. B. Daigawane,11
+5,1,Civil Engineering,2016,Dr. N. M. Borkar,10
+6,1,Applied Sciences and Humanities,2016,Dr. Meenal Kulkarni,7
+7,1,Information Technology,2017,Dr. Rekha Nair,6
+8,1,Artificial Intelligence and Data Science,2020,Dr. Neha Shinde,5
+9,1,Environmental Engineering,2018,Dr. Ajay Jadhav,4
+10,1,Instrumentation Engineering,2019,Dr. Lata More,6

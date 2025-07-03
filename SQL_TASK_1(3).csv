@@ -1,0 +1,11 @@
+std_id,branch_id,first_name,last_name,dob,gpa,percentage,email_id,enrollment_date
+11,4,Aarav,Deshmukh,2004-06-15,8,78.5,aarav.deshmukh@gcoen.ac.in,2022-08-01
+12,4,Sneha,Patil,2003-11-22,9,84.2,sneha.patil@gcoen.ac.in,2022-08-01
+13,4,Rohan,Joshi,2004-01-10,7,72,rohan.joshi@gcoen.ac.in,2022-08-01
+14,4,Isha,Kulkarni,2003-09-05,8,79.3,isha.kulkarni@gcoen.ac.in,2022-08-01
+15,4,Yash,Shinde,2004-03-18,6,65.7,yash.shinde@gcoen.ac.in,2022-08-01
+16,4,Pooja,More,2003-12-30,9,88.1,pooja.more@gcoen.ac.in,2022-08-01
+17,4,Kunal,Borkar,2004-05-25,7,71.4,kunal.borkar@gcoen.ac.in,2022-08-01
+18,4,Neha,Jadhav,2003-07-14,8,80,neha.jadhav@gcoen.ac.in,2022-08-01
+19,4,Siddharth,Naik,2004-02-08,7,74.6,siddharth.naik@gcoen.ac.in,2022-08-01
+20,4,Ritika,Sawant,2003-10-19,8,82.3,ritika.sawant@gcoen.ac.in,2022-08-01

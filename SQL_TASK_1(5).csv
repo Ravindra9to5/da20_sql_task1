@@ -1,0 +1,11 @@
+college_id,university_id,name,founded_year,num_departments,dean
+1,1,"Government College of Engineering, Nagpur",1960,12,Dr. S. V. Deshmukh
+2,1,Shri Ramdeobaba College of Engineering and Management,1984,14,Dr. R. S. Pande
+3,1,G. H. Raisoni College of Engineering,1996,16,Dr. Preeti Bajaj
+4,1,St. Francis De Sales College,1956,10,Dr. A. K. Sharma
+5,1,"Dr. Ambedkar College, Nagpur",1964,11,Dr. Meena Joshi
+6,1,Anjuman College of Engineering and Technology,1999,9,Dr. M. A. Khan
+7,1,Dhanwate National College,1935,8,Dr. Rekha Nair
+8,1,Smt. Radhadevi Goenka College for Women,1989,7,Dr. Lata More
+9,1,Central India College of Law,2006,6,Dr. Ajay Jadhav
+10,1,JD College of Engineering and Management,2008,13,Dr. Neha Shinde

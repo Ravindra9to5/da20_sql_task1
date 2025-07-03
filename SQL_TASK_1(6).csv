@@ -1,0 +1,11 @@
+branch_id,deparment_id,name,total_seat,seat_filled,branch_head
+1,4,Thermal Engineering,60,58,Dr. S. V. Deshmukh
+2,4,Design Engineering,60,55,Dr. A. R. Wankhede
+3,4,Production Engineering,60,52,Dr. M. B. Daigawane
+4,4,Automobile Engineering,60,59,Dr. N. M. Borkar
+5,4,Industrial Engineering,60,50,Dr. Rekha Nair
+6,4,Mechatronics,60,53,Dr. Neha Shinde
+7,4,Robotics and Automation,60,56,Dr. Ajay Jadhav
+8,4,CAD/CAM,60,54,Dr. Lata More
+9,4,Energy Systems,60,51,Dr. P. S. Kale
+10,4,Advanced Manufacturing,60,57,Dr. K. G. Joshi
